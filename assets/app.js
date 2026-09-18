@@ -10,37 +10,37 @@ const $=s=>document.querySelector(s);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 /* --- odkazy --------------------------------------------------------------
-   Oficiální aplikace ČSÚ je SPA bez odkazovatelných adres jednotlivých obcí
-   a zpravodajské databáze kandidátů schová cookie lišta, takže odkazy níže
-   míří na vyhledávání — vždycky fungují a nezastarají.                     */
-const cleanObec = o => o.split(/\s*[(+]/)[0].replace(/‑/g,"-").trim();
-const cleanStr  = p => p.replace(/\s*\([^)]*\)/g,"").replace(/\s*[–—]\s.*$/,"").trim();
-const g   = q => "https://www.google.com/search?q="+encodeURIComponent(q);
-const gimg= q => "https://www.google.com/search?tbm=isch&q="+encodeURIComponent(q);
+   u  = profil kandidáta na webu jeho strany/sdružení
+   ul = kandidátka nebo program subjektu (když profil neexistuje)
+   ph = fotka kandidáta z téhož webu. Žádné odkazy na vyhledávače.         */
+const wiki = q => "https://cs.wikipedia.org/w/index.php?search="+encodeURIComponent(q);
 
-/* Portrét: fotka sportovce z Wikipedie, jinak iniciály. */
+/* Portrét: fotka z webu strany, jinak fotka sportovce z Wikipedie, jinak iniciály. */
 function avatar(x){
+  const ini=x.n.split(" ").filter(Boolean).slice(0,2).map(s=>s[0]).join("");
+  const none=`<div class="avatar-none" aria-hidden="true">${esc(ini)}</div>`;
+  if(x.ph) return `<img class="avatar" src="${esc(x.ph)}" width="56" height="56" loading="lazy"
+    referrerpolicy="no-referrer" alt="Portrét — ${esc(x.n)}" title="Foto z webu kandidujícího subjektu"
+    onerror="this.outerHTML='${none.replace(/"/g,"&quot;")}'">`;
   // np = jmenovec sportovce, fotku vědomě nezobrazujeme
   const p=x.np?null:(window.PHOTOS||{})[x.n];
   if(p) return `<img class="avatar" src="${p[1]}" width="56" height="56" loading="lazy"
     alt="Portrét — ${esc(x.n)}"
     title="Foto sportovce ${esc(p[0])} z Wikipedie — ne z kandidátky">`;
-  const ini=x.n.split(" ").filter(Boolean).slice(0,2).map(s=>s[0]).join("");
-  return `<div class="avatar-none" aria-hidden="true">${esc(ini)}</div>`;
+  return none;
 }
 
 function links(x){
-  const obec=cleanObec(x.o), jm=x.n;
-  const out=[
-    ["Foto", gimg(`"${jm}" ${obec}`)],
-    ["Kandidátka a program", g(`"${cleanStr(x.p)}" ${obec} volby 2026 program kandidáti`)]
-  ];
+  const out=[];
+  if(x.ph) out.push(["Foto", x.ph]);
+  if(x.u) out.push(["Profil kandidáta", x.u]);
+  else if(x.ul) out.push([/facebook\.com/.test(x.ul)?"Facebook subjektu":"Web subjektu", x.ul]);
   if(x.s==="hokej")
-    out.push(["Hokejová kariéra","https://www.eliteprospects.com/search/player?q="+encodeURIComponent(jm)]);
+    out.push(["Hokejová kariéra","https://www.eliteprospects.com/search/player?q="+encodeURIComponent(x.n)]);
   else if(x.s==="fotbal")
-    out.push(["Fotbalová kariéra","https://www.transfermarkt.cz/schnellsuche/ergebnis/schnellsuche?query="+encodeURIComponent(jm)]);
+    out.push(["Fotbalová kariéra","https://www.transfermarkt.cz/schnellsuche/ergebnis/schnellsuche?query="+encodeURIComponent(x.n)]);
   else
-    out.push(["Sportovní kariéra", g(`"${jm}" ${x.d.split(/[,;(]/)[0].toLowerCase()}`)]);
+    out.push(["Sportovní kariéra", wiki(x.n)]);
   return out;
 }
 
@@ -92,7 +92,7 @@ function render(){
             ${x.f?'<span class="tag flag">ověřit totožnost</span>':""}
           </div>
           <div class="desc">${esc(x.d)}</div>
-          <div class="links">${links(x).map(([t,u])=>
+          <div class="links">${!x.u&&!x.ul?'<span class="nolink">Subjekt nemá web s kandidátkou</span>':""}${links(x).map(([t,u])=>
             `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${t}</a>`).join("")}</div>
           </div>
         </div>

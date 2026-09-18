@@ -121,6 +121,7 @@ select{padding:9px 10px;font:inherit;font-size:15px;color:var(--ink);
   letter-spacing:.06em;text-transform:uppercase;text-decoration:none;
   padding:3px 9px;border:1px solid var(--line);border-radius:2px;
   color:var(--ink-2);background:var(--surface);white-space:nowrap}
+.links .nolink{font-size:13px;color:var(--muted,#888);align-self:center;margin-right:4px}
 .links a:hover{border-color:var(--accent);color:var(--accent)}
 .links a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .row.star-row{background:linear-gradient(90deg,var(--accent-soft),transparent 55%);
