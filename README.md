@@ -29,8 +29,8 @@ aby se odchytili ti, kdo u sebe sport neuvedli. Výsledek doplnilo regionální 
   nesedí na jmenný sken. U malých obcí to platí dvojnásob.
 - Popisky jsou **vlastní tvrzení kandidátů**. „Reprezentant“ nebo „mistr světa“ na kandidátce
   není ověřený fakt.
-- Záznamy s `overitTotoznost: true` sedí věkem i regionem na známého sportovce, ale povolání
-  na listině to nepotvrzuje. Před publikací je potřeba doptat se.
+- Záznamy s `overitTotoznost: true` (zbývají dva) sedí věkem, profesí i místem na známého
+  sportovce, ale přímý zdroj to nepotvrzuje. Ostatní původně sporná jména jsou ověřená.
 
 ### Senát: nula
 
@@ -69,20 +69,20 @@ scripts/export-json.mjs generuje data/kandidati.json z assets/data.js
 | `p` | `subjekt` | kandidující strana, hnutí nebo sdružení |
 | `c` | `poradiNaKandidatce` | pořadí; `1` = lídr |
 | `k` | `kraj` | jeden ze 14 krajů |
+| `u` | `profilKandidata` | stránka kandidáta na webu jeho strany/sdružení |
+| `ul` | `webSubjektu` | kandidátka nebo program subjektu, když profil není |
+| `ph` | `fotka` | URL fotky kandidáta z webu subjektu (načítá se přímo odtamtud) |
 
 Po úpravě `assets/data.js` spusť `node scripts/export-json.mjs`, ať JSON nezůstane pozadu.
 
 ---
 
-## Portréty
+## Fotky
 
-Fotky jsou z Wikimedia Commons přes cs.wikipedia.org, oříznuté na 64×64 a uložené jako
-data: URI, aby stránka fungovala offline i bez cizích serverů. **Je to fotka toho sportovce,
-ne fotka z kandidátky** — slouží k porovnání obličeje, ne jako doklad totožnosti. Portrét má
-32 jmen ze 179; u zbytku volně licencovaná fotka neexistuje a zobrazí se monogram.
-
-Jednotliví autoři a licence jsou uvedené u příslušných souborů na
-[Wikimedia Commons](https://commons.wikimedia.org/).
+Primárně fotka kandidáta **z webu jeho strany nebo sdružení** (pole `ph`), načítaná přímo
+z jejich serveru — pokud ji subjekt po volbách smaže, zobrazí se monogram. Kde subjekt fotku
+nemá, zobrazí se portrét sportovce z Wikimedia Commons (`assets/photos.js`, ořez 64×64 jako
+data: URI) — to je fotka toho sportovce, ne z kandidátky. U zbytku monogram.
 
 ---
 
@@ -93,5 +93,5 @@ Soubor `.nojekyll` je v repu proto, aby Pages servírovaly obsah beze změn.
 
 ## Licence
 
-Data ČSÚ jsou veřejná. Kód v tomto repu je MIT. Portréty mají vlastní licence svých autorů
-na Wikimedia Commons — při dalším použití je uveďte.
+Data ČSÚ jsou veřejná. Kód v tomto repu je MIT. Portréty z Wikimedia Commons mají vlastní licence
+svých autorů — při dalším použití je uveďte. Fotky z webů kandidujících subjektů patří jejich autorům.
