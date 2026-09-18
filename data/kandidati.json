@@ -15,12 +15,13 @@
     "vek": 71,
     "sport": "hokej",
     "byvalyProfik": true,
-    "overitTotoznost": true,
-    "popis": "Hokejový expert; věkem i profilem odpovídá útočníkovi Sparty a reprezentace 70.–80. let",
+    "popis": "Mistr světa 1985, legenda Sparty a reprezentace, hokejový expert; žije v Dolních Chabrech",
     "obec": "Praha‑Dolní Chabry",
     "subjekt": "VOLBA PRO CHABRY",
     "poradiNaKandidatce": 14,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://volbaprochabry.eu/?cat=28",
+    "fotka": "https://volbaprochabry.eu/wp-content/uploads/2018/08/DSC01195BW-e1662542965806-450x750.jpg"
   },
   {
     "jmeno": "Tomáš Krejčík",
@@ -52,7 +53,9 @@
     "obec": "Praha‑Vinoř (lídr) + magistrát",
     "subjekt": "ODS a NEZÁVISLÍ / SPOLU pro Prahu",
     "poradiNaKandidatce": 1,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://www.ods.cz/ms.vinor/profil/27103-milan-antos",
+    "fotka": "https://www.ods.cz/media/profil/milan-antos-121419478.webp"
   },
   {
     "jmeno": "Jaroslav Konečný",
@@ -63,7 +66,8 @@
     "obec": "Praha 10 + magistrát",
     "subjekt": "SPD s podporou PRO, Trikolory a Přísahy",
     "poradiNaKandidatce": 7,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://spd.cz/mapa-volby-2026/"
   },
   {
     "jmeno": "Ladislava Pořízková",
@@ -83,7 +87,8 @@
     "obec": "Praha 12",
     "subjekt": "Starostové se Změnou pro Prahu 12",
     "poradiNaKandidatce": 25,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://www.zmenaproprahu12.cz/kandidat/daniel-turek/"
   },
   {
     "jmeno": "Andrej Adamec",
@@ -93,7 +98,8 @@
     "obec": "Praha 6",
     "subjekt": "SPD s podporou Trikolory a PRO",
     "poradiNaKandidatce": 16,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://www.facebook.com/spdPraha6/"
   },
   {
     "jmeno": "Lukáš Lhoták",
@@ -103,7 +109,8 @@
     "obec": "Praha 9",
     "subjekt": "SPD a Svobodní pro Prahu 9",
     "poradiNaKandidatce": 25,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://www.facebook.com/spdpraha9/"
   },
   {
     "jmeno": "Vojtěch Ludvík",
@@ -113,7 +120,9 @@
     "obec": "Praha 13",
     "subjekt": "STAROSTOVÉ A NEZÁVISLÍ",
     "poradiNaKandidatce": 1,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://vojtaludvik.cz/",
+    "fotka": "https://vojtaludvik.cz/assets/vojtech-hero.jpg"
   },
   {
     "jmeno": "Daniel Seniov",
@@ -123,7 +132,9 @@
     "obec": "Praha 1",
     "subjekt": "Naše Praha 1 — ANO a nezávislí",
     "poradiNaKandidatce": 12,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://www.nasejednicka.cz/nasilide",
+    "fotka": "https://static.wixstatic.com/media/6d7930_02adc5c3601c493ba18abaf00005d2ca~mv2.jpg/v1/fill/w_443,h_436,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/%C4%8D_12%20-%20Daniel%20Seniov%20-%20ZH_00083.jpg"
   },
   {
     "jmeno": "Martin Poustka",
@@ -143,7 +154,9 @@
     "obec": "Praha 1",
     "subjekt": "REZIDENTI 1",
     "poradiNaKandidatce": 13,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://rezidenti1.cz/kandidati/vlastimil-kalas/",
+    "fotka": "https://rezidenti1.cz/wp-content/uploads/2022/08/Vlastimil_Kalas.png"
   },
   {
     "jmeno": "Petr Lukáš",
@@ -153,7 +166,8 @@
     "obec": "Praha 1 + magistrát",
     "subjekt": "REZIDENTI 1 / REZIDENTI – REBELOVÉ",
     "poradiNaKandidatce": 6,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://rezidenti1.cz/kandidati/mgr-petr-lukas-2/"
   },
   {
     "jmeno": "Petr Sýkora",
@@ -164,7 +178,8 @@
     "obec": "Praha 11",
     "subjekt": "ANO 2011",
     "poradiNaKandidatce": 1,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://www.facebook.com/ANOPraha11/"
   },
   {
     "jmeno": "Michal Gandalovič",
@@ -174,7 +189,8 @@
     "obec": "Praha 10",
     "subjekt": "Společně pro Prahu 10 (ODS a lokální osobnosti)",
     "poradiNaKandidatce": 24,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://www.ods.cz/os.praha10/volby2026/komunalni/3458-praha-10/44337-michal-gandalovic"
   },
   {
     "jmeno": "Petra Brabcová",
@@ -216,7 +232,8 @@
     "obec": "Benátky nad Jizerou",
     "subjekt": "Občanská demokratická strana",
     "poradiNaKandidatce": 20,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "profilKandidata": "https://www.ods.cz/os.mlada.boleslav/volby2026/komunalni/3635-benatky-nad-jizerou/44680-jan-chramosta"
   },
   {
     "jmeno": "Ladislav Gengel",
@@ -243,23 +260,25 @@
     "vek": 46,
     "sport": "fotbal",
     "byvalyProfik": true,
-    "overitTotoznost": true,
-    "popis": "Fotbalový trenér; věkem odpovídá bývalému reprezentačnímu obránci",
+    "popis": "Bývalý reprezentační obránce, rodák z Příbrami (nar. 1980), trenér SK Spartak Příbram",
     "obec": "Příbram",
     "subjekt": "Příbramáci pro Příbram",
     "poradiNaKandidatce": 9,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.pribramacipropribram.cz/kandidati.html",
+    "fotka": "https://www.pribramacipropribram.cz/images/kandidat-09-tomas-zapotocny.jpg"
   },
   {
     "jmeno": "Tomáš Wágner",
     "vek": 36,
     "sport": "fotbal",
     "overitTotoznost": true,
-    "popis": "Fotbalový trenér; věkem odpovídá ligovému útočníkovi",
+    "popis": "Fotbalový trenér; věk (nar. 1990), město i profese sedí na útočníka a asistenta trenéra FK Příbram, přímé potvrzení chybí",
     "obec": "Příbram",
     "subjekt": "ANO 2011",
     "poradiNaKandidatce": 15,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.facebook.com/anopribram/"
   },
   {
     "jmeno": "Kateřina Šafránková",
@@ -270,7 +289,9 @@
     "obec": "Kolín",
     "subjekt": "Kolíňáci – SEN pro Kolín",
     "poradiNaKandidatce": 15,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://kolinaci.cz/",
+    "fotka": "https://kolinaci.cz/assets/img/kandidati/15-katerina-safrankova.webp"
   },
   {
     "jmeno": "Jiří Irain",
@@ -281,7 +302,9 @@
     "obec": "Mladá Boleslav",
     "subjekt": "Hlas pro Boleslav",
     "poradiNaKandidatce": 2,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.hlasproboleslav.cz/page/kandidati",
+    "fotka": "https://www.hlasproboleslav.cz/storage/app/media/kandidati/irain.webp"
   },
   {
     "jmeno": "Tomáš Marek",
@@ -292,7 +315,8 @@
     "obec": "Kamenné Žehrovice",
     "subjekt": "ROZUMNĚ !",
     "poradiNaKandidatce": 7,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://rozumne.netlify.app/"
   },
   {
     "jmeno": "Radek Dosoudil",
@@ -322,7 +346,9 @@
     "obec": "Kralupy nad Vltavou",
     "subjekt": "PELOTON KRALUPY",
     "poradiNaKandidatce": 15,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.pelotonkralupy.cz/kandidati",
+    "fotka": "https://www.pelotonkralupy.cz/wp-content/themes/kadence-child/kandidati/Husak.jpg"
   },
   {
     "jmeno": "Zdeněk Liehne",
@@ -332,7 +358,9 @@
     "obec": "Beroun",
     "subjekt": "Naše Česko Berounu",
     "poradiNaKandidatce": 8,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.beroun-cesko.cz/kandidatka",
+    "fotka": "https://www.beroun-cesko.cz/_section/272b4c/images/zdenek-liehne.jpg?t=1788266550"
   },
   {
     "jmeno": "Jiří Holý",
@@ -342,7 +370,8 @@
     "obec": "Poděbrady",
     "subjekt": "PDY 21",
     "poradiNaKandidatce": 15,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://pdy21.senprocesko.cz/nas-tym"
   },
   {
     "jmeno": "Tomáš Protivný",
@@ -352,7 +381,8 @@
     "obec": "Nymburk",
     "subjekt": "Nymburská ODS a nezávislí",
     "poradiNaKandidatce": 13,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.ods.cz/os.nymburk/volby2026/komunalni/3675-nymburk"
   },
   {
     "jmeno": "Aleš Kohout",
@@ -362,7 +392,9 @@
     "obec": "Mníšek pod Brdy",
     "subjekt": "SDRUŽENÍ NESTRANÍKŮ",
     "poradiNaKandidatce": 12,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://nestranicimnisek.cz/tym",
+    "fotka": "https://nestranicimnisek.cz/uploads/6d4ce92ecfc06afcd7069753e9fb4c22.jpg"
   },
   {
     "jmeno": "Filip Langer",
@@ -372,7 +404,8 @@
     "obec": "Horoměřice",
     "subjekt": "ODS a nezávislí kandidáti",
     "poradiNaKandidatce": 15,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://www.ods.cz/os.praha-zapad/volby2026/komunalni/3685-horomerice"
   },
   {
     "jmeno": "Martin Hanzal",
@@ -424,7 +457,8 @@
     "obec": "Strakonice",
     "subjekt": "JIHOČEŠI 2012",
     "poradiNaKandidatce": 12,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "webSubjektu": "https://www.jihocesi2012.cz/volby/komunalni-volby-2026/kandidatni-listina"
   },
   {
     "jmeno": "Zbyněk Sýkora",
@@ -434,7 +468,8 @@
     "obec": "České Budějovice",
     "subjekt": "Naše Česko",
     "poradiNaKandidatce": 8,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "profilKandidata": "https://www.cesko.cz/"
   },
   {
     "jmeno": "Pavel Vacek",
@@ -476,7 +511,9 @@
     "obec": "Strakonice",
     "subjekt": "JIHOČEŠI 2012",
     "poradiNaKandidatce": 1,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "profilKandidata": "https://www.jihocesi2012.cz/osoby/1622/frantisek-burda-dis",
+    "fotka": "https://www.jihocesi2012.cz/inc/osoby/1622/profil.jpg"
   },
   {
     "jmeno": "Marek Sýkora",
@@ -484,7 +521,7 @@
     "sport": "hokej",
     "byvalyProfik": true,
     "overitTotoznost": true,
-    "popis": "Hokejový trenér; věkem odpovídá dlouholetému extraligovému a reprezentačnímu kouči",
+    "popis": "Hokejový trenér; věk (nar. 1948) i profese sedí na bývalého trenéra Plzně a Dinama Minsk, obec leží u Plzně, přímé potvrzení chybí",
     "obec": "Zruč‑Senec",
     "subjekt": "Zruč‑Senec otevřeně a s rozumem",
     "poradiNaKandidatce": 7,
@@ -499,7 +536,9 @@
     "obec": "Plzeň 3",
     "subjekt": "PRO PLZEŇ s podporou lidovců",
     "poradiNaKandidatce": 20,
-    "kraj": "Plzeňský"
+    "kraj": "Plzeňský",
+    "webSubjektu": "https://proplzen.cz/volby-2026/",
+    "fotka": "https://proplzen.cz/wp-content/uploads/Vostrak-724x1024.jpg"
   },
   {
     "jmeno": "Tomáš Hájovský",
@@ -510,7 +549,8 @@
     "obec": "Plzeň 3",
     "subjekt": "PRO PLZEŇ s podporou lidovců",
     "poradiNaKandidatce": 21,
-    "kraj": "Plzeňský"
+    "kraj": "Plzeňský",
+    "webSubjektu": "https://proplzen.cz/volby-2026/"
   },
   {
     "jmeno": "Michal Holý",
@@ -520,7 +560,9 @@
     "obec": "Plzeň (magistrát) + Plzeň 5‑Křimice",
     "subjekt": "PRO PLZEŇ s podporou lidovců",
     "poradiNaKandidatce": 45,
-    "kraj": "Plzeňský"
+    "kraj": "Plzeňský",
+    "webSubjektu": "https://proplzen.cz/volby-2026/",
+    "fotka": "https://proplzen.cz/wp-content/uploads/Holy.png"
   },
   {
     "jmeno": "Radek Motlík",
@@ -531,7 +573,9 @@
     "obec": "Plzeň (magistrát) + Plzeň 4",
     "subjekt": "PRO PLZEŇ s podporou lidovců",
     "poradiNaKandidatce": 41,
-    "kraj": "Plzeňský"
+    "kraj": "Plzeňský",
+    "webSubjektu": "https://proplzen.cz/volby-2026/",
+    "fotka": "https://proplzen.cz/wp-content/uploads/ChatGPT-Image-22.-7.-2026-13_43_54-1024x683.png"
   },
   {
     "jmeno": "Radomír Šimůnek",
@@ -542,7 +586,8 @@
     "obec": "Plzeň 1",
     "subjekt": "PRO PLZEŇ s podporou lidovců",
     "poradiNaKandidatce": 22,
-    "kraj": "Plzeňský"
+    "kraj": "Plzeňský",
+    "webSubjektu": "https://proplzen.cz/volby-2026/"
   },
   {
     "jmeno": "Michal Šubrt",
@@ -581,12 +626,13 @@
     "vek": 47,
     "sport": "hokej",
     "byvalyProfik": true,
-    "overitTotoznost": true,
-    "popis": "Hokejový trenér, OSVČ; jméno i věk sedí na dlouholetého hráče HC Energie",
+    "popis": "22 sezon v HC Energie Karlovy Vary, kapitán mistrovského týmu 2009; hokejový trenér",
     "obec": "Karlovy Vary",
     "subjekt": "Karlovaráci",
     "poradiNaKandidatce": 2,
-    "kraj": "Karlovarský"
+    "kraj": "Karlovarský",
+    "profilKandidata": "https://karlovaraci.cz/lide/vaclav-skuhravy/",
+    "fotka": "https://karlovaraci.cz/wp-content/uploads/2022/06/skuhravy_2026.webp"
   },
   {
     "jmeno": "Radek Vomočil",
@@ -658,7 +704,9 @@
     "obec": "Litvínov",
     "subjekt": "To dáme — za podpory Naše Česko",
     "poradiNaKandidatce": 1,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://to-dame.cz/kandidati.html",
+    "fotka": "https://to-dame.cz/assets/candidates/01-jiri-slegr.webp"
   },
   {
     "jmeno": "Vladimír Růžička",
@@ -669,7 +717,8 @@
     "obec": "Chomutov",
     "subjekt": "SPD + MOTORISTÉ + PRO = CHOMUTOV SOBĚ",
     "poradiNaKandidatce": 12,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.facebook.com/stranaPROchomutov/"
   },
   {
     "jmeno": "Jan Čaloun",
@@ -680,7 +729,8 @@
     "obec": "Ústí nad Labem",
     "subjekt": "JEDNO ÚSTÍ",
     "poradiNaKandidatce": 30,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.jednousti.cz/program"
   },
   {
     "jmeno": "Martin Pešout",
@@ -691,7 +741,8 @@
     "obec": "Chomutov",
     "subjekt": "SPD + MOTORISTÉ + PRO = CHOMUTOV SOBĚ",
     "poradiNaKandidatce": 8,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.facebook.com/stranaPROchomutov/"
   },
   {
     "jmeno": "Angel Krstev",
@@ -702,7 +753,9 @@
     "obec": "Chomutov",
     "subjekt": "CHOMUTOVSKÁ KOALICE – NAŠE ČESKO – PRO ZDRAVÍ A SPORT",
     "poradiNaKandidatce": 6,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.chomutovskakoala.cz/kandidati",
+    "fotka": "https://www.chomutovskakoala.cz/media/people/angel-krstev.png"
   },
   {
     "jmeno": "Jakub Chrpa",
@@ -713,7 +766,8 @@
     "obec": "Chomutov",
     "subjekt": "CHOMUTOVSKÁ KOALICE – NAŠE ČESKO – PRO ZDRAVÍ A SPORT",
     "poradiNaKandidatce": 15,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.chomutovskakoala.cz/kandidati"
   },
   {
     "jmeno": "Martin Boček",
@@ -724,7 +778,9 @@
     "obec": "Chomutov",
     "subjekt": "CHOMUTOVSKÁ KOALICE – NAŠE ČESKO – PRO ZDRAVÍ A SPORT",
     "poradiNaKandidatce": 18,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.chomutovskakoala.cz/kandidati",
+    "fotka": "https://www.chomutovskakoala.cz/media/people/martin-bocek.png"
   },
   {
     "jmeno": "Josef Jebavý",
@@ -735,7 +791,8 @@
     "obec": "Chomutov",
     "subjekt": "SPD + MOTORISTÉ + PRO = CHOMUTOV SOBĚ",
     "poradiNaKandidatce": 29,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.facebook.com/stranaPROchomutov/"
   },
   {
     "jmeno": "Lukáš Konečný",
@@ -746,7 +803,8 @@
     "obec": "Ústí nad Labem (+ Severní Terasa, č. 2)",
     "subjekt": "JEDNO ÚSTÍ",
     "poradiNaKandidatce": 18,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.jednousti.cz/program"
   },
   {
     "jmeno": "Štěpán Horváth",
@@ -768,7 +826,8 @@
     "obec": "Ústí nad Labem (+ Neštěmice)",
     "subjekt": "Vaše Ústí s podporou Za lepší Střekov",
     "poradiNaKandidatce": 33,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://vaseusti.cz/"
   },
   {
     "jmeno": "Ján Malatinec",
@@ -779,7 +838,8 @@
     "obec": "Ústí nad Labem (+ Neštěmice)",
     "subjekt": "PRO Právo Respekt Odbornost a Stačilo!",
     "poradiNaKandidatce": 16,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.stranapro.cz/volby-2026/"
   },
   {
     "jmeno": "František Klekner",
@@ -790,7 +850,8 @@
     "obec": "Ústí nad Labem (+ Střekov, č. 3)",
     "subjekt": "Zdraví Sport Vzdělání",
     "poradiNaKandidatce": 23,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.hnutizsv.cz/volby/kandidatni-listiny/strekov/"
   },
   {
     "jmeno": "Jaroslav Dědek",
@@ -801,7 +862,8 @@
     "obec": "Ústí nad Labem",
     "subjekt": "Zdraví Sport Vzdělání",
     "poradiNaKandidatce": 28,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.hnutizsv.cz/volby/kandidatni-listiny/magistrat/"
   },
   {
     "jmeno": "Nela Pihrtová",
@@ -832,7 +894,8 @@
     "obec": "Chomutov",
     "subjekt": "SPD + MOTORISTÉ + PRO = CHOMUTOV SOBĚ",
     "poradiNaKandidatce": 7,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "webSubjektu": "https://www.facebook.com/stranaPROchomutov/"
   },
   {
     "jmeno": "Petr Thiel",
@@ -842,7 +905,8 @@
     "obec": "Ústí nad Labem",
     "subjekt": "Zdraví Sport Vzdělání",
     "poradiNaKandidatce": 5,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "profilKandidata": "https://www.hnutizsv.cz/nasi-kandidati/sportovci/"
   },
   {
     "jmeno": "Tomáš Bukovec",
@@ -903,7 +967,9 @@
     "obec": "Liberec",
     "subjekt": "Liberec otevřený lidem a Piráti",
     "poradiNaKandidatce": 2,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "profilKandidata": "https://www.liberecotevrenylidem.cz/zuzana-kocumova/",
+    "fotka": "https://0fd0bc3dcd.clvaw-cdnwnd.com/4e9d0335f311c2b29d8fa08370c1fe05/200000029-024bd024be/587A9552.jpg?ph=0fd0bc3dcd"
   },
   {
     "jmeno": "Helena Karásková Erbenová",
@@ -925,7 +991,8 @@
     "obec": "Liberec",
     "subjekt": "LIBE!",
     "poradiNaKandidatce": 20,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "webSubjektu": "https://volimelibe.cz/kandidati/"
   },
   {
     "jmeno": "Milan Matula",
@@ -936,7 +1003,9 @@
     "obec": "Liberec (+ Vratislavice, č. 12)",
     "subjekt": "Lepší Liberec",
     "poradiNaKandidatce": 34,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "webSubjektu": "https://lepsi-vratislavice.cz/#kandidatka",
+    "fotka": "https://lepsi-vratislavice.cz/assets/img/kandidati/34-milan-matula.jpg"
   },
   {
     "jmeno": "Lubomír Staněk",
@@ -947,7 +1016,9 @@
     "obec": "Liberec (+ Vratislavice, č. 14)",
     "subjekt": "Lepší Liberec",
     "poradiNaKandidatce": 24,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "webSubjektu": "https://lepsi-vratislavice.cz/#kandidatka",
+    "fotka": "https://lepsi-vratislavice.cz/assets/img/kandidati/24-lubomir-stanek.jpg"
   },
   {
     "jmeno": "Petra Piskačová",
@@ -958,7 +1029,8 @@
     "obec": "Liberec",
     "subjekt": "ODS společně se sportovci",
     "poradiNaKandidatce": 11,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "profilKandidata": "https://www.ods.cz/ms.liberec/volby2026/komunalni/3293-liberec/43439-petra-piskacova"
   },
   {
     "jmeno": "Milan Vágner",
@@ -969,7 +1041,8 @@
     "obec": "Liberec",
     "subjekt": "ODS společně se sportovci",
     "poradiNaKandidatce": 19,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "profilKandidata": "https://www.ods.cz/ms.liberec/volby2026/komunalni/3293-liberec/43573-milan-vagner"
   },
   {
     "jmeno": "Martin Berka",
@@ -980,7 +1053,8 @@
     "obec": "Liberec",
     "subjekt": "ODS společně se sportovci",
     "poradiNaKandidatce": 21,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "profilKandidata": "https://www.ods.cz/ms.liberec/volby2026/komunalni/3293-liberec/46793-martin-berka"
   },
   {
     "jmeno": "Marcela Taušová",
@@ -1023,7 +1097,8 @@
     "obec": "Rokytnice nad Jizerou",
     "subjekt": "Rokytnice 26 – čas na změnu!",
     "poradiNaKandidatce": 10,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "webSubjektu": "https://www.facebook.com/rokytnice26/"
   },
   {
     "jmeno": "Anežka Indráčková",
@@ -1063,7 +1138,9 @@
     "obec": "Jablonec nad Nisou",
     "subjekt": "Občanská demokratická strana",
     "poradiNaKandidatce": 11,
-    "kraj": "Liberecký"
+    "kraj": "Liberecký",
+    "profilKandidata": "https://www.ods.cz/ms.jablonec-nad-nisou/volby2026/komunalni/3202-jablonec-nad-nisou/45279-radek-wagner",
+    "fotka": "https://www.ods.cz/media/profil/radek-wagner-125160505.webp"
   },
   {
     "jmeno": "Václav Kotal",
@@ -1085,7 +1162,8 @@
     "obec": "Hradec Králové",
     "subjekt": "SALON REPUBLIKY 21",
     "poradiNaKandidatce": 21,
-    "kraj": "Královéhradecký"
+    "kraj": "Královéhradecký",
+    "webSubjektu": "https://salonrepubliky21.cz/kandidatka"
   },
   {
     "jmeno": "Eva Nývltová Vrabcová",
@@ -1096,7 +1174,9 @@
     "obec": "Trutnov",
     "subjekt": "ADRESA TRUTNOV",
     "poradiNaKandidatce": 20,
-    "kraj": "Královéhradecký"
+    "kraj": "Královéhradecký",
+    "webSubjektu": "https://www.adresatrutnov.cz/kandidati.html",
+    "fotka": "https://www.adresatrutnov.cz/img/medailonky/20_NyvltovaVrabcova.jpg"
   },
   {
     "jmeno": "Eva Horáková",
@@ -1128,7 +1208,9 @@
     "obec": "Trutnov",
     "subjekt": "ADRESA TRUTNOV",
     "poradiNaKandidatce": 19,
-    "kraj": "Královéhradecký"
+    "kraj": "Královéhradecký",
+    "webSubjektu": "https://www.adresatrutnov.cz/kandidati.html",
+    "fotka": "https://www.adresatrutnov.cz/img/medailonky/19_Chytracek.jpg"
   },
   {
     "jmeno": "Nikola Šarounová",
@@ -1180,7 +1262,9 @@
     "obec": "Pardubice",
     "subjekt": "Srdcem pro Pardubice",
     "poradiNaKandidatce": 2,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "webSubjektu": "https://www.srdcempropardubice.cz/kandidati",
+    "fotka": "https://www.srdcempropardubice.cz/files/kandidati/2.webp"
   },
   {
     "jmeno": "Vladimír Martinec",
@@ -1191,7 +1275,8 @@
     "obec": "Pardubice (+ Pardubice I, č. 3)",
     "subjekt": "Srdcem pro Pardubice",
     "poradiNaKandidatce": 15,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "webSubjektu": "https://www.srdcempropardubice.cz/kandidati"
   },
   {
     "jmeno": "Jiří Novák",
@@ -1202,7 +1287,8 @@
     "obec": "Pardubice (+ Pardubice III, č. 4)",
     "subjekt": "Srdcem pro Pardubice",
     "poradiNaKandidatce": 16,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "webSubjektu": "https://www.srdcempropardubice.cz/kandidati"
   },
   {
     "jmeno": "Jan Bulis",
@@ -1276,7 +1362,9 @@
     "obec": "Pardubice (+ Pardubice I, č. 5)",
     "subjekt": "Žijeme Pardubice",
     "poradiNaKandidatce": 36,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "profilKandidata": "https://zijemepardubice.cz/tym/jan-dunovsky",
+    "fotka": "https://zijemepardubice.cz/wp-content/uploads/2026/07/Navrh-bez-nazvu-4-826x1024.png"
   },
   {
     "jmeno": "Ondřej Šebek",
@@ -1286,7 +1374,8 @@
     "obec": "Pardubice",
     "subjekt": "ODS PARDUBICE",
     "poradiNaKandidatce": 7,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "webSubjektu": "https://www.ods.cz/os.pardubice/volby2026/komunalni/3326-pardubice"
   },
   {
     "jmeno": "Jan Meduna",
@@ -1296,7 +1385,9 @@
     "obec": "Heřmanův Městec",
     "subjekt": "HEŘMANI",
     "poradiNaKandidatce": 15,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "webSubjektu": "http://hermani.cz/#kandidati",
+    "fotka": "http://hermani.cz/img/team/jan-meduna.jpg"
   },
   {
     "jmeno": "Petr Boušek",
@@ -1327,7 +1418,8 @@
     "obec": "Velké Meziříčí",
     "subjekt": "PRO VELKÉ MEZIŘÍČÍ",
     "poradiNaKandidatce": 17,
-    "kraj": "Vysočina"
+    "kraj": "Vysočina",
+    "webSubjektu": "https://www.facebook.com/provelkemezirici"
   },
   {
     "jmeno": "Ondřej Dygrýn",
@@ -1357,7 +1449,8 @@
     "obec": "Havlíčkův Brod",
     "subjekt": "BROĎÁCI",
     "poradiNaKandidatce": 17,
-    "kraj": "Vysočina"
+    "kraj": "Vysočina",
+    "webSubjektu": "http://brodaci.cz"
   },
   {
     "jmeno": "Stanislav Duben",
@@ -1367,7 +1460,8 @@
     "obec": "Havlíčkův Brod",
     "subjekt": "KDU‑ČSL",
     "poradiNaKandidatce": 7,
-    "kraj": "Vysočina"
+    "kraj": "Vysočina",
+    "webSubjektu": "https://www.facebook.com/KDUCSLHavlickuvBrod"
   },
   {
     "jmeno": "Petr Ottich",
@@ -1377,7 +1471,9 @@
     "obec": "Třebíč",
     "subjekt": "PRO TŘEBÍČ",
     "poradiNaKandidatce": 12,
-    "kraj": "Vysočina"
+    "kraj": "Vysočina",
+    "profilKandidata": "https://protrebic.cz/l/petr-ottich/",
+    "fotka": "https://ce518527cc.clvaw-cdnwnd.com/f98737b8d43b4f55b35443c1e1862695/200001320-57dec57dee/kandidati_ctverec_orez15.jpeg?ph=ce518527cc"
   },
   {
     "jmeno": "Josef Vrzáček",
@@ -1409,7 +1505,9 @@
     "obec": "Kyjov",
     "subjekt": "Kyjov má na víc",
     "poradiNaKandidatce": 9,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "profilKandidata": "https://www.kyjovmanavic.cz/",
+    "fotka": "https://www.kyjovmanavic.cz/assets/tym/jan-barta2.jpg"
   },
   {
     "jmeno": "Filip Král",
@@ -1419,14 +1517,15 @@
     "obec": "Blansko",
     "subjekt": "Tým Crha – ODS a nezávislí s podporou TOP 09",
     "poradiNaKandidatce": 9,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "profilKandidata": "https://www.ods.cz/ms.blansko/volby2026/komunalni/3359-blansko/43583-filip-kral"
   },
   {
     "jmeno": "Milan Heča",
     "vek": 35,
     "sport": "fotbal",
-    "overitTotoznost": true,
-    "popis": "Profesionální sportovec; věkem a regionem odpovídá ligovému brankáři",
+    "byvalyProfik": true,
+    "popis": "Brankář 1. FC Slovácko, dříve Sparta Praha (mistr ligy); rodák z Krumvíře",
     "obec": "Krumvíř",
     "subjekt": "Sdružení nezávislých kandidátů",
     "poradiNaKandidatce": 8,
@@ -1436,12 +1535,14 @@
     "jmeno": "Karel Kroupa",
     "vek": 46,
     "sport": "fotbal",
-    "overitTotoznost": true,
-    "popis": "Fotbalový trenér; věkem odpovídá bývalému útočníkovi Zbrojovky",
+    "byvalyProfik": true,
+    "popis": "Karel Kroupa ml. (nar. 1980), bývalý ligový útočník Zbrojovky Brno a syn legendy; fotbalový trenér",
     "obec": "Brno‑Jundrov",
     "subjekt": "Společně pro Jundrov (ODS a nestraníci s podporou TOP 09)",
     "poradiNaKandidatce": 8,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "profilKandidata": "https://www.ods.cz/ms.jundrov/volby2026/komunalni/3275-brno-jundrov/30464-karel-kroupa",
+    "fotka": "https://www.ods.cz/media/profil-foto-180/karel-kroupa-30464.jpg"
   },
   {
     "jmeno": "František Šebela",
@@ -1452,7 +1553,8 @@
     "obec": "Znojmo",
     "subjekt": "Naše Znojmo",
     "poradiNaKandidatce": 22,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "webSubjektu": "https://www.naseznojmo.cz/"
   },
   {
     "jmeno": "Zdeněk Prčík",
@@ -1496,7 +1598,8 @@
     "obec": "Brno‑střed",
     "subjekt": "Za Lužánky",
     "poradiNaKandidatce": 16,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "webSubjektu": "https://www.za-luzanky.cz/soupiska/brno-stred"
   },
   {
     "jmeno": "Hana Zejdová",
@@ -1517,7 +1620,8 @@
     "obec": "Znojmo",
     "subjekt": "Naše Znojmo",
     "poradiNaKandidatce": 20,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "webSubjektu": "https://www.naseznojmo.cz/"
   },
   {
     "jmeno": "Dominica Hynková",
@@ -1527,7 +1631,8 @@
     "obec": "Brno‑Řečkovice a Mokrá Hora",
     "subjekt": "ODS, TOP 09 a nezávislí",
     "poradiNaKandidatce": 11,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "profilKandidata": "https://www.ods.cz/ms.reckovice-a-mokra-hora/volby2026/komunalni/3280-brno-reckovice-a-mokra-hora/43553-dominica-hynkova"
   },
   {
     "jmeno": "Zuzana Honcová",
@@ -1567,7 +1672,8 @@
     "obec": "Brno‑Bosonohy",
     "subjekt": "Občanská demokratická strana",
     "poradiNaKandidatce": 12,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "profilKandidata": "https://www.ods.cz/ms.bosonohy/volby2026/komunalni/3196-brno-bosonohy/45497-dominik-komarek"
   },
   {
     "jmeno": "Jiří Beroun",
@@ -1577,7 +1683,8 @@
     "obec": "Znojmo",
     "subjekt": "Naše Znojmo",
     "poradiNaKandidatce": 19,
-    "kraj": "Jihomoravský"
+    "kraj": "Jihomoravský",
+    "webSubjektu": "https://www.naseznojmo.cz/"
   },
   {
     "jmeno": "Jakub Jurka",
@@ -1587,7 +1694,8 @@
     "obec": "Olomouc",
     "subjekt": "KDU‑ČSL",
     "poradiNaKandidatce": 2,
-    "kraj": "Olomoucký"
+    "kraj": "Olomoucký",
+    "webSubjektu": "https://www.facebook.com/volimeolomouc"
   },
   {
     "jmeno": "Petr Korec",
@@ -1598,7 +1706,8 @@
     "obec": "Šumperk",
     "subjekt": "ŠUMPERÁCI",
     "poradiNaKandidatce": 22,
-    "kraj": "Olomoucký"
+    "kraj": "Olomoucký",
+    "webSubjektu": "https://www.facebook.com/sumperaci"
   },
   {
     "jmeno": "Jaromír Horký",
@@ -1608,7 +1717,9 @@
     "obec": "Přerov",
     "subjekt": "Změna pro Přerov (STAN, Piráti a nezávislí)",
     "poradiNaKandidatce": 2,
-    "kraj": "Olomoucký"
+    "kraj": "Olomoucký",
+    "webSubjektu": "https://zmenaproprerov.cz/lide.html",
+    "fotka": "https://zmenaproprerov.cz/candidates/cand-2.jpg"
   },
   {
     "jmeno": "Pavel Špička",
@@ -1618,7 +1729,9 @@
     "obec": "Zábřeh",
     "subjekt": "NEZÁVISLÁ VOLBA",
     "poradiNaKandidatce": 14,
-    "kraj": "Olomoucký"
+    "kraj": "Olomoucký",
+    "profilKandidata": "http://www.nezavislavolba.cz/spicka.html",
+    "fotka": "https://www.nezavislavolba.cz/2026/foto2026/Spicka.jpg"
   },
   {
     "jmeno": "Petr Doseděl",
@@ -1628,7 +1741,9 @@
     "obec": "Prostějov",
     "subjekt": "Pévéčko",
     "poradiNaKandidatce": 17,
-    "kraj": "Olomoucký"
+    "kraj": "Olomoucký",
+    "profilKandidata": "https://pevecko.cz/nasi-lide/petr-dosedel",
+    "fotka": "https://pevecko.cz/assets/uploads/media-uploader/17-petr-dosedel1787142649.jpg"
   },
   {
     "jmeno": "Milan Petržela",
@@ -1639,7 +1754,9 @@
     "obec": "Uherské Hradiště",
     "subjekt": "Hradišťáci",
     "poradiNaKandidatce": 17,
-    "kraj": "Zlínský"
+    "kraj": "Zlínský",
+    "webSubjektu": "https://www.hradistaci.cz/kandidati-2026/",
+    "fotka": "https://9ea898f414.clvaw-cdnwnd.com/6fed82d3c8e73b525bcf038aa15c8264/200000510-555695556b/17_Petr%C5%BEela-Milan.jpeg?ph=9ea898f414"
   },
   {
     "jmeno": "Michal Kadlec",
@@ -1650,7 +1767,8 @@
     "obec": "Uherské Hradiště",
     "subjekt": "Občanští demokraté a nezávislé osobnosti (ODS)",
     "poradiNaKandidatce": 25,
-    "kraj": "Zlínský"
+    "kraj": "Zlínský",
+    "profilKandidata": "https://www.ods.cz/ms.uherske-hradiste/volby2026/komunalni/3259-uherske-hradiste/44594-michal-kadlec"
   },
   {
     "jmeno": "Miroslava Adámková",
@@ -1672,7 +1790,8 @@
     "obec": "Zlín",
     "subjekt": "Motoristé sobě a Svobodní",
     "poradiNaKandidatce": 8,
-    "kraj": "Zlínský"
+    "kraj": "Zlínský",
+    "webSubjektu": "https://motoristesobe.cz/kandidatka-zlinsky-kraj"
   },
   {
     "jmeno": "Matěj Santo",
@@ -1683,7 +1802,9 @@
     "obec": "Zlín",
     "subjekt": "Zlín 21",
     "poradiNaKandidatce": 6,
-    "kraj": "Zlínský"
+    "kraj": "Zlínský",
+    "webSubjektu": "https://zlin21.cz/nasi-kandidati/",
+    "fotka": "https://zlin21.cz/wp-content/uploads/2026/07/kandidati-web_0022_ZL210094-2-1-330x330-c-default.jpg"
   },
   {
     "jmeno": "Kamil Valentík",
@@ -1693,7 +1814,9 @@
     "obec": "Rožnov pod Radhoštěm",
     "subjekt": "NEZÁVISLÍ ROŽNOVÁCI A STAN",
     "poradiNaKandidatce": 14,
-    "kraj": "Zlínský"
+    "kraj": "Zlínský",
+    "webSubjektu": "https://roznovaci.online/o-nas/",
+    "fotka": "https://roznovaci.online/wp-content/uploads/2026/08/Kamil_Valentik1.png"
   },
   {
     "jmeno": "Jan Jelínek",
@@ -1703,7 +1826,8 @@
     "obec": "Luhačovice",
     "subjekt": "PRO Luhačovice",
     "poradiNaKandidatce": 16,
-    "kraj": "Zlínský"
+    "kraj": "Zlínský",
+    "webSubjektu": "https://www.facebook.com/proluhacovice/"
   },
   {
     "jmeno": "Alois Hadamczik",
@@ -1714,7 +1838,9 @@
     "obec": "Kravaře",
     "subjekt": "Za Kravaře prosperující",
     "poradiNaKandidatce": 1,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "http://www.prosperitakravar.cz/kandidatni-listina/",
+    "fotka": "https://www.prosperitakravar.cz/data/hostedit2/userfiles/images/kandidati-2022/1_Hadamczik_Alois.jpg"
   },
   {
     "jmeno": "Petr Czudek",
@@ -1725,7 +1851,9 @@
     "obec": "Opava",
     "subjekt": "OK Změna pro Opavu",
     "poradiNaKandidatce": 1,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "profilKandidata": "https://www.facebook.com/petr.czudek.official/",
+    "fotka": "https://hnutiok.cz/wp-content/uploads/2026/04/czudek-987x1024.jpg"
   },
   {
     "jmeno": "Aron Artur Chmielewski",
@@ -1735,7 +1863,9 @@
     "obec": "Třinec",
     "subjekt": "Osobnosti pro Třinec",
     "poradiNaKandidatce": 14,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "profilKandidata": "https://osobnostiprotrinec.cz/kandidat-aron-chmielewski.html",
+    "fotka": "https://osobnostiprotrinec.cz/assets/img/kandidati/aron_chmielewski_c.jpg"
   },
   {
     "jmeno": "Jakub Janda",
@@ -1746,7 +1876,9 @@
     "obec": "Frenštát pod Radhoštěm",
     "subjekt": "Občanská demokratická strana",
     "poradiNaKandidatce": 7,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://odsfrenstat.cz/#kandidati",
+    "fotka": "https://odsfrenstat.cz/wp-content/uploads/2026/07/7.webp"
   },
   {
     "jmeno": "Michal Frydrych",
@@ -1777,7 +1909,9 @@
     "obec": "Opava",
     "subjekt": "OK Změna pro Opavu",
     "poradiNaKandidatce": 9,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://hnutiok.cz/kandidatka/opava/",
+    "fotka": "https://hnutiok.cz/wp-content/uploads/2026/04/schaffartzik-768x1024.jpg"
   },
   {
     "jmeno": "Lumír Sedláček",
@@ -1788,7 +1922,9 @@
     "obec": "Opava",
     "subjekt": "OK Změna pro Opavu",
     "poradiNaKandidatce": 27,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://hnutiok.cz/kandidatka/opava/",
+    "fotka": "https://hnutiok.cz/wp-content/uploads/2026/04/sedlacek-772x1024.jpg"
   },
   {
     "jmeno": "Jiří Sýkora",
@@ -1799,7 +1935,9 @@
     "obec": "Opava",
     "subjekt": "OK Změna pro Opavu",
     "poradiNaKandidatce": 10,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://hnutiok.cz/kandidatka/opava/",
+    "fotka": "https://hnutiok.cz/wp-content/uploads/2026/04/sykora-768x1024.jpg"
   },
   {
     "jmeno": "Přemysl Kubala",
@@ -1810,7 +1948,8 @@
     "obec": "Frýdek‑Místek",
     "subjekt": "Přátelé FM",
     "poradiNaKandidatce": 10,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://pratelefm.cz/nasi-lide/"
   },
   {
     "jmeno": "Pavel Borovička",
@@ -1821,7 +1960,8 @@
     "obec": "Ostrava‑Poruba",
     "subjekt": "STAROSTOVÉ pro OSTRAVU PORUBU",
     "poradiNaKandidatce": 7,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://www.starostoveproostravu.cz/mestske-obvody/poruba/"
   },
   {
     "jmeno": "Petr David",
@@ -1831,7 +1971,9 @@
     "obec": "Havířov",
     "subjekt": "Hnutí pro Havířov",
     "poradiNaKandidatce": 31,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "profilKandidata": "http://hph-hnutiprohavirov.cz/david/",
+    "fotka": "https://hph-hnutiprohavirov.cz/_astro/37.BjhJilzz_ZNcgAT.webp"
   },
   {
     "jmeno": "Adam Čeladín",
@@ -1841,18 +1983,21 @@
     "obec": "Vrbno pod Pradědem",
     "subjekt": "NAŠE VRBNO",
     "poradiNaKandidatce": 12,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://nasevrbno.cz/",
+    "fotka": "https://nasevrbno.cz/wp-content/uploads/2026/07/13.png"
   },
   {
     "jmeno": "Karel Kula",
     "vek": 63,
     "sport": "fotbal",
-    "overitTotoznost": true,
-    "popis": "Starosta města — LÍDR; jménem, věkem i regionem odpovídá bývalému reprezentantovi ČSSR a hráči Baníku",
+    "popis": "Starosta města — LÍDR; bývalý reprezentant ČSSR a dlouholetý hráč Baníku Ostrava",
     "obec": "Český Těšín",
     "subjekt": "NESTRANÍCI ČESKÝ TĚŠÍN (STAN a nezávislí)",
     "poradiNaKandidatce": 1,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://www.nestranicitesin.cz/",
+    "fotka": "https://www.nestranicitesin.cz/assets/candidates/01-kula.jpg"
   },
   {
     "jmeno": "Ondřej Fiala",
@@ -1862,7 +2007,9 @@
     "obec": "Frýdek‑Místek",
     "subjekt": "rEvoluce",
     "poradiNaKandidatce": 2,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://revoluce.fm/kandidati.html",
+    "fotka": "https://revoluce.fm/assets/media/mgr-ondrej-fiala-v2.jpg"
   },
   {
     "jmeno": "Jan Vančo",
@@ -1872,7 +2019,8 @@
     "obec": "Moravská Ostrava a Přívoz",
     "subjekt": "Ostravak",
     "poradiNaKandidatce": 23,
-    "kraj": "Moravskoslezský"
+    "kraj": "Moravskoslezský",
+    "webSubjektu": "https://ostravak.cz/ostravak/kandidatni-listina/moravska-ostrava-a-privoz/"
   },
   {
     "jmeno": "Jan Szturc",
