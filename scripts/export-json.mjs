@@ -17,6 +17,7 @@ const KEYS = {
   n: "jmeno", v: "vek", s: "sport", st: "byvalyProfik", f: "overitTotoznost",
   np: "jmenovecSportovce",
   d: "popis", o: "obec", p: "subjekt", c: "poradiNaKandidatce", k: "kraj",
+  u: "profilKandidata", ul: "webSubjektu", ph: "fotka",
 };
 const BOOL = new Set(["st", "f", "np"]);
 
