@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sportovci na kandidátkách 2026</title>
+<meta name="description" content="Bývalí i aktivní profesionální sportovci na kandidátkách do zastupitelstev v komunálních volbách 9.–10. října 2026. Vytěženo z otevřeného registru kandidátů ČSÚ.">
+<meta name="color-scheme" content="light dark">
+<meta property="og:title" content="Sportovci na kandidátkách 2026">
+<meta property="og:description" content="Kompletní sken registru ČSÚ — 190 151 kandidátů. Kdo z hokejistů a fotbalistů letos kandiduje.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127954;</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&amp;family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&amp;family=IBM+Plex+Mono:wght@500;600&amp;display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<div class="wrap">
+
+<header class="mast">
+  <p class="eyebrow">Komunální volby · 9.–10. října 2026</p>
+  <h1>Sportovci na kandidátkách</h1>
+  <p class="dek">Kompletní sken oficiálního registru kandidátů ČSÚ — <em>190 151 jmen</em> ze všech obcí ČR
+  plus <em>154 kandidátů</em> do Senátu ve 27 obvodech. Níže jsou bývalí i aktivní profesionálové,
+  reprezentanti a olympionici, kteří letos kandidují do zastupitelstev. Hokej a fotbal na prvním místě,
+  ostatní sporty tam, kde jde o velké jméno.</p>
+  <div class="counts" id="counts"></div>
+</header>
+
+<div class="controls">
+  <div class="ctl-row">
+    <input type="search" id="q" placeholder="Hledat jméno, obec, stranu…" aria-label="Hledat">
+    <select id="kraj" aria-label="Kraj"><option value="">Všechny kraje</option></select>
+    <div class="chips" role="group" aria-label="Sport">
+      <button class="chip" id="f-hokej" aria-pressed="false">Hokej</button>
+      <button class="chip" id="f-fotbal" aria-pressed="false">Fotbal</button>
+      <button class="chip" id="f-jine" aria-pressed="false">Ostatní</button>
+      <button class="chip" id="f-star" aria-pressed="false">Jen top jména</button>
+    </div>
+  </div>
+  <div class="hitcount" id="hits"></div>
+</div>
+
+<main id="list"></main>
+
+<section class="panel">
+  <h3>Senát 2026 — nula</h3>
+  <p>Ve 27 senátních obvodech kandiduje letos 154 lidí, nejméně od roku 1998. <strong>Mezi nimi není
+  jediný bývalý profesionální sportovec.</strong> Sportu se blíží jen čtyři: Jiří Kyněra (plavecký trenér,
+  ANO, obvod 54 Znojmo), Zdeněk Navrátil (předseda a trenér sportovního klubu, rEvoluce, obvod 69
+  Frýdek‑Místek), Lubomír Nečas (tělovýchovný lékař, SPD, obvod 78 Zlín) a Zdeněk Beil (šachový trenér
+  mládeže, Levice, obvod 66 Litovel).</p>
+  <p>Pozor na starší články: kandidatura Dominika Haška do Senátu byla v roce <strong>2024</strong>,
+  letos nekandiduje.</p>
+</section>
+
+<section class="panel">
+  <h3>Jak to bylo změřeno</h3>
+  <p>Zdrojem je otevřený registr kandidátů ČSÚ ke komunálním volbám 2026 (<code>kvrk.csv</code>,
+  190 151 řádků) a registr kandidátů do Senátu (<code>serk.csv</code>, 154 řádků), oba ve stavu
+  po registraci listin. Filtrováno bylo pole „povolání“, které si kandidát vyplňuje sám, přes zhruba
+  70 sportovních klíčových slov; navíc proběhl křížový sken jmen známých hokejistů a fotbalistů
+  proti věku, aby se odchytili ti, kdo u sebe sport neuvedli.</p>
+  <ul>
+    <li><strong>Hlavní slepá skvrna:</strong> kdo se na listině označí jen jako „podnikatel“ nebo „OSVČ“,
+    ten z tohoto filtru vypadne, pokud zároveň nesedí na jmenný sken. U menších obcí to platí dvojnásob.</li>
+    <li><strong>Popisky pocházejí od kandidátů.</strong> „Reprezentant“ nebo „mistr světa“ na listině je
+    jejich vlastní tvrzení, ne ověřený fakt — u méně známých jmen berte s rezervou.</li>
+    <li>Jména označená <span class="tag flag">ověřit totožnost</span> sedí věkem i regionem na známého
+    sportovce, ale povolání na listině to nepotvrzuje. Před publikací doporučuju doptat se.</li>
+    <li><strong>Portréty jsou fotky sportovců z Wikipedie, ne z kandidátek.</strong> Slouží k tomu,
+    abyste si obličej porovnal — ne jako doklad, že ten kandidát je opravdu on. U 32 jmen se volná
+    fotka na Wikipedii našla; u zbytku je místo ní jen monogram, protože volně licencovaný portrét
+    neexistuje. Najetím myší se ukáže, z kterého článku fotka je.</li>
+    <li><strong>Odkazy u jmen</strong> vedou na vyhledávání, ne na jednu pevnou stránku: oficiální
+    aplikace ČSÚ nemá odkazovatelné adresy jednotlivých obcí a zpravodajské databáze kandidátů
+    schová cookie lišta. „Foto“ otevře obrázky, „Kandidátka a program“ najde web kandidujícího
+    subjektu a „kariéra“ míří na Eliteprospects u hokejistů, Transfermarkt u fotbalistů.</li>
+  </ul>
+</section>
+
+<p class="src">Zdroj dat: <a href="https://volby.gov.cz/opendata/kv2026/kv2026_opendata_seznam.htm">ČSÚ — otevřená data, komunální volby 2026</a>
+· <a href="https://volby.gov.cz/opendata/se2026/se2026_opendata_seznam.htm">ČSÚ — otevřená data, volby do Senátu 2026</a>
+· doplněno regionálním zpravodajstvím Deníku, Blesku a Hospodářských novin.
+Portréty: <a href="https://commons.wikimedia.org/">Wikimedia Commons</a> přes cs.wikipedia.org,
+jednotliví autoři, volné licence.</p>
+
+</div>
+
+<script src="assets/photos.js"></script>
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
