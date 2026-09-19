@@ -8,7 +8,9 @@
     "obec": "Praha 5",
     "subjekt": "Naše Praha 5",
     "poradiNaKandidatce": 2,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://hnutinasepraha.cz/denisa-satralova/",
+    "fotka": "https://hnutinasepraha.cz/wp-content/uploads/2026/08/denisa-satralova-650v-202x300.png"
   },
   {
     "jmeno": "Pavel Richter",
@@ -32,7 +34,8 @@
     "obec": "Praha 17",
     "subjekt": "SPD + Trikolora + Manifest + PRO",
     "poradiNaKandidatce": 7,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://spd.cz/mapa-volby-2026/"
   },
   {
     "jmeno": "David Novák",
@@ -43,7 +46,8 @@
     "obec": "Praha 10",
     "subjekt": "Naše Praha 10",
     "poradiNaKandidatce": 14,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://hnutinasepraha.cz/praha-10"
   },
   {
     "jmeno": "Milan Antoš",
@@ -77,7 +81,8 @@
     "obec": "Praha 10",
     "subjekt": "Naše Praha 10",
     "poradiNaKandidatce": 18,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "webSubjektu": "https://hnutinasepraha.cz/praha-10"
   },
   {
     "jmeno": "Daniel Turek",
@@ -144,7 +149,9 @@
     "obec": "Praha 5",
     "subjekt": "Naše Praha 5",
     "poradiNaKandidatce": 6,
-    "kraj": "Praha"
+    "kraj": "Praha",
+    "profilKandidata": "https://hnutinasepraha.cz/martin-poustka/",
+    "fotka": "https://hnutinasepraha.cz/wp-content/uploads/2026/08/hnp-portret-martin-poustka.png"
   },
   {
     "jmeno": "Vlastimil Kalaš",
@@ -222,7 +229,9 @@
     "obec": "Kolín",
     "subjekt": "Budoucnost pro Kolín",
     "poradiNaKandidatce": 16,
-    "kraj": "Středočeský"
+    "kraj": "Středočeský",
+    "webSubjektu": "https://budoucnostprokolin.cz/kandidati",
+    "fotka": "https://www.budoucnostprokolin.cz/wp-content/uploads/2026/08/fisera.webp"
   },
   {
     "jmeno": "Jan Chramosta",
@@ -416,7 +425,8 @@
     "obec": "České Budějovice",
     "subjekt": "Naše Česko",
     "poradiNaKandidatce": 12,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "webSubjektu": "https://www.cesko.cz/"
   },
   {
     "jmeno": "Jiří Severa",
@@ -436,7 +446,8 @@
     "obec": "Český Krumlov",
     "subjekt": "Naše Česko",
     "poradiNaKandidatce": 20,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "webSubjektu": "https://www.cesko.cz/"
   },
   {
     "jmeno": "Petr Šlechta",
@@ -446,7 +457,8 @@
     "obec": "Písek",
     "subjekt": "Naše Česko",
     "poradiNaKandidatce": 19,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "webSubjektu": "https://www.cesko.cz/"
   },
   {
     "jmeno": "Miloš Bečvář",
@@ -458,7 +470,7 @@
     "subjekt": "JIHOČEŠI 2012",
     "poradiNaKandidatce": 12,
     "kraj": "Jihočeský",
-    "webSubjektu": "https://www.jihocesi2012.cz/volby/komunalni-volby-2026/kandidatni-listina"
+    "webSubjektu": "https://www.jihocesi2012.cz/obsah/volby/komunalni-volby-2026/obce-kandidati/kandidati-pro-komunalni-volby-2026__strakonice.pdf"
   },
   {
     "jmeno": "Zbyněk Sýkora",
@@ -469,7 +481,8 @@
     "subjekt": "Naše Česko",
     "poradiNaKandidatce": 8,
     "kraj": "Jihočeský",
-    "profilKandidata": "https://www.cesko.cz/"
+    "profilKandidata": "https://www.cesko.cz/",
+    "fotka": "https://www.cesko.cz/files/responsive/1280/0/zbynek-sykora-crop.jpg"
   },
   {
     "jmeno": "Pavel Vacek",
@@ -480,7 +493,9 @@
     "obec": "Jindřichův Hradec",
     "subjekt": "SPD + Motoristé + Svobodní + Trikolora + PRO",
     "poradiNaKandidatce": 13,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "webSubjektu": "https://velkykrizek.cz/predstaveni-kandidatky.html",
+    "fotka": "https://velkykrizek.cz/assets/cand-13.png"
   },
   {
     "jmeno": "Miroslav Fidler",
@@ -491,7 +506,9 @@
     "obec": "Jindřichův Hradec",
     "subjekt": "SPD + Motoristé + Svobodní + Trikolora + PRO",
     "poradiNaKandidatce": 11,
-    "kraj": "Jihočeský"
+    "kraj": "Jihočeský",
+    "webSubjektu": "https://velkykrizek.cz/predstaveni-kandidatky.html",
+    "fotka": "https://velkykrizek.cz/assets/cand-11.png"
   },
   {
     "jmeno": "Veronika Rožboudová",
@@ -598,7 +615,8 @@
     "obec": "Plzeň 1",
     "subjekt": "STAROSTOVÉ A NEZÁVISLÍ",
     "poradiNaKandidatce": 10,
-    "kraj": "Plzeňský"
+    "kraj": "Plzeňský",
+    "webSubjektu": "https://www.stanplzen.cz/nasi-lide-mestsky-obvod-plzen-1/"
   },
   {
     "jmeno": "Milan Forman",
@@ -673,7 +691,9 @@
     "obec": "Sokolov",
     "subjekt": "SPOLEČNĚ pro Sokolov a VOK",
     "poradiNaKandidatce": 11,
-    "kraj": "Karlovarský"
+    "kraj": "Karlovarský",
+    "profilKandidata": "https://vokk.cz/clenove/karel-mlejnek/",
+    "fotka": "https://vokk.cz/wp-content/uploads/2024/04/Mlejnek-Karel.jpg"
   },
   {
     "jmeno": "David Tomi",
@@ -926,7 +946,8 @@
     "obec": "Litoměřice",
     "subjekt": "STAN a SPORT A ZDRAVÍ LITOMĚŘICE",
     "poradiNaKandidatce": 12,
-    "kraj": "Ústecký"
+    "kraj": "Ústecký",
+    "profilKandidata": "https://sportzdravilitomerice.cz/pavel-zuziak/"
   },
   {
     "jmeno": "Roland Wágner",
@@ -1231,7 +1252,9 @@
     "obec": "Náchod",
     "subjekt": "PATRIOTI NÁCHODA",
     "poradiNaKandidatce": 22,
-    "kraj": "Královéhradecký"
+    "kraj": "Královéhradecký",
+    "webSubjektu": "https://www.patriotinachod.cz/",
+    "fotka": "https://www.patriotinachod.cz/assets/candidates/22-bg-comp-final.webp"
   },
   {
     "jmeno": "Vítězslav Perun",
@@ -1310,7 +1333,9 @@
     "obec": "Pardubice (+ Pardubice I, č. 5)",
     "subjekt": "ANO 2011",
     "poradiNaKandidatce": 3,
-    "kraj": "Pardubický"
+    "kraj": "Pardubický",
+    "webSubjektu": "https://www.anopardubice.cz/osoby/pardubice",
+    "fotka": "https://www.anopardubice.cz/files/kandidati/151/velka/pce-03-velka.jpg"
   },
   {
     "jmeno": "Jan Košťálek",
@@ -1375,7 +1400,8 @@
     "subjekt": "ODS PARDUBICE",
     "poradiNaKandidatce": 7,
     "kraj": "Pardubický",
-    "webSubjektu": "https://www.ods.cz/os.pardubice/volby2026/komunalni/3326-pardubice"
+    "profilKandidata": "https://www.ods.cz/os.pardubice/volby2026/komunalni/3326-pardubice/28530-ondrej-sebek",
+    "fotka": "https://www.ods.cz/media/profil/ondrej-sebek-128758725.webp"
   },
   {
     "jmeno": "Jan Meduna",
